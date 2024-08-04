@@ -1,5 +1,5 @@
 # Udacity-Project-Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds
-Applying Python tools to use and image classifier to identify Dog breeds
+Applying Python tools to use in an image classifier to identify Dog breeds
 
 A hypothethical city is hosting a citywide dog show and I have volunteered to help the organizing committee with contestant registration. Every participant that registers must submit an image of their dog along with biographical information about their dog. The registration system tags the images based upon the biographical information. Some people are planning on registering pets that aren’t actual dogs.
 Apply Python tools to use a image classifier to identify dog breeds.
