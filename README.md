@@ -12,9 +12,9 @@ Time how long each algorithm takes to solve the classification problem. With com
 We'll use a CNN that has already learned the features from a giant dataset of 1.2 million images called ImageNet(opens in a new tab). There are different types of CNNs that have different structures (architectures) that work better or worse depending on your criteria. With this project, we'll explore the three different architectures (AlexNet, VGG, and ResNet) and determine which is best for your application.
 
 The files that I have worked on -
-get_input_args.py
-get_pet_labels.py
-classify_images.py
-adjust_results4_isadog.py
-calculates_results_stats.py
+get_input_args.py, 
+get_pet_labels.py, 
+classify_images.py, 
+adjust_results4_isadog.py, 
+calculates_results_stats.py, 
 print_results.py
